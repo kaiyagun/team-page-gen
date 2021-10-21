@@ -6,4 +6,4 @@ A simple command-line application that takes in information about team members a
 
 ## Use
 
-[!See a demo video here]https://watch.screencastify.com/v/Xt22eJNYFVhTK1FeYJF3
+See a demo video here: https://watch.screencastify.com/v/Xt22eJNYFVhTK1FeYJF3
